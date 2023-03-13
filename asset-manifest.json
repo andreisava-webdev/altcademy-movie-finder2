@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "C:/Program Files/Git/altcademy-movie-finder2/static/css/main.d7e26831.css",
-    "main.js": "C:/Program Files/Git/altcademy-movie-finder2/static/js/main.97bcfb22.js",
-    "static/js/787.a49fdb6b.chunk.js": "C:/Program Files/Git/altcademy-movie-finder2/static/js/787.a49fdb6b.chunk.js",
-    "index.html": "C:/Program Files/Git/altcademy-movie-finder2/index.html",
-    "main.d7e26831.css.map": "C:/Program Files/Git/altcademy-movie-finder2/static/css/main.d7e26831.css.map",
-    "main.97bcfb22.js.map": "C:/Program Files/Git/altcademy-movie-finder2/static/js/main.97bcfb22.js.map",
-    "787.a49fdb6b.chunk.js.map": "C:/Program Files/Git/altcademy-movie-finder2/static/js/787.a49fdb6b.chunk.js.map"
+    "main.css": "https://andreisava-webdev.github.io/altcademy-movie-finder2/static/css/main.d7e26831.css",
+    "main.js": "https://andreisava-webdev.github.io/altcademy-movie-finder2/static/js/main.3702dca8.js",
+    "static/js/787.a49fdb6b.chunk.js": "https://andreisava-webdev.github.io/altcademy-movie-finder2/static/js/787.a49fdb6b.chunk.js",
+    "index.html": "https://andreisava-webdev.github.io/altcademy-movie-finder2/index.html",
+    "main.d7e26831.css.map": "https://andreisava-webdev.github.io/altcademy-movie-finder2/static/css/main.d7e26831.css.map",
+    "main.3702dca8.js.map": "https://andreisava-webdev.github.io/altcademy-movie-finder2/static/js/main.3702dca8.js.map",
+    "787.a49fdb6b.chunk.js.map": "https://andreisava-webdev.github.io/altcademy-movie-finder2/static/js/787.a49fdb6b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7e26831.css",
-    "static/js/main.97bcfb22.js"
+    "static/js/main.3702dca8.js"
   ]
 }
