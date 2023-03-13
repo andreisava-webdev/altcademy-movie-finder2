@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/altcademy-movie-finder2/static/css/main.d7e26831.css",
+    "main.js": "/altcademy-movie-finder2/static/js/main.83f5df6d.js",
+    "static/js/787.a49fdb6b.chunk.js": "/altcademy-movie-finder2/static/js/787.a49fdb6b.chunk.js",
+    "index.html": "/altcademy-movie-finder2/index.html",
+    "main.d7e26831.css.map": "/altcademy-movie-finder2/static/css/main.d7e26831.css.map",
+    "main.83f5df6d.js.map": "/altcademy-movie-finder2/static/js/main.83f5df6d.js.map",
+    "787.a49fdb6b.chunk.js.map": "/altcademy-movie-finder2/static/js/787.a49fdb6b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7e26831.css",
+    "static/js/main.83f5df6d.js"
+  ]
+}
